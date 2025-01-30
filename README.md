@@ -1,3 +1,11 @@
+⚠️ This repository is no longer maintained ⚠️
+
+There are some similar maintained lists, including:
+
+- https://codeberg.org/fediverse/delightful-fediverse-apps - focused on Fediverse (ActivityPub) apps.
+- https://codeberg.org/fediverse/delightful-activitypub-development - focused on ActivityPub development tools and libraries.
+
+
 # Awesome Fediverse 🛰✨😎
 
 A curated, collaborative list of awesome Fediverse resources for getting ramped up in the Fediverse.
